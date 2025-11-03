@@ -1,0 +1,52 @@
+{
+  "speakers": [
+    {
+      "id": "speaker-1",
+      "name": "Alexandra Chen",
+      "title": "Founder & CEO",
+      "company": "TechVentures Asia",
+      "avatar": "/images/speakers/placeholder.jpg",
+      "session": "From Idea to Launch: The First 90 Days",
+      "bio": "Alexandra founded TechVentures in 2018 and has since helped over 100 startups launch successfully across Asia. She specializes in rapid prototyping and lean startup methodologies.",
+      "linkedin": "https://linkedin.com/in/alexandrachen",
+      "twitter": "https://twitter.com/alexandrachen",
+      "website": "https://example.com"
+    },
+    {
+      "id": "speaker-2",
+      "name": "Marcus Wong",
+      "title": "Partner",
+      "company": "Vertex Ventures",
+      "avatar": "/images/speakers/placeholder.jpg",
+      "session": "What Investors Look For in Student Founders",
+      "bio": "Marcus has invested in over 50 startups across Southeast Asia, with a particular focus on student-led ventures. He's passionate about supporting the next generation of entrepreneurs.",
+      "linkedin": "https://linkedin.com/in/marcuswong",
+      "twitter": "https://twitter.com/marcuswong",
+      "website": "https://example.com"
+    },
+    {
+      "id": "speaker-3",
+      "name": "Priya Sharma",
+      "title": "VP of Product",
+      "company": "Grab",
+      "avatar": "/images/speakers/placeholder.jpg",
+      "session": "Building Products Users Love",
+      "bio": "Priya has led product teams at some of Southeast Asia's fastest-growing companies. She's an expert in user research, product-market fit, and scaling products from zero to millions of users.",
+      "linkedin": "https://linkedin.com/in/priyasharma",
+      "twitter": "https://twitter.com/priyasharma",
+      "website": "https://example.com"
+    },
+    {
+      "id": "speaker-4",
+      "name": "David Nguyen",
+      "title": "Serial Entrepreneur",
+      "company": "3x Exits",
+      "avatar": "/images/speakers/placeholder.jpg",
+      "session": "Lessons from Building and Selling Startups",
+      "bio": "David has founded and exited three successful startups in the edtech and fintech spaces. He now mentors young entrepreneurs and angel invests in early-stage companies.",
+      "linkedin": "https://linkedin.com/in/davidnguyen",
+      "twitter": "https://twitter.com/davidnguyen",
+      "website": "https://example.com"
+    }
+  ]
+}

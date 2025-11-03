@@ -1,0 +1,32 @@
+{
+  "timeline": [
+    {
+      "id": "day-1",
+      "day": "DAY 1: FRIDAY",
+      "title": "Kickoff",
+      "time": "After School",
+      "description": "Opening ceremony, challenge guidelines released, team formation begins"
+    },
+    {
+      "id": "day-2",
+      "day": "DAY 2: SATURDAY",
+      "title": "Build Sprint",
+      "time": "10:00 AM - 10:00 PM",
+      "description": "Full day of building, guest speakers, mentor sessions, and workshops"
+    },
+    {
+      "id": "day-3",
+      "day": "DAY 3: SUNDAY",
+      "title": "Demo Day",
+      "time": "10:00 AM - 3:00 PM",
+      "description": "Final prep, pitch sessions, awards ceremony, and celebration"
+    },
+    {
+      "id": "beyond",
+      "day": "BEYOND",
+      "title": "Community Access",
+      "time": "Ongoing",
+      "description": "Join MLV ecosystem, continued mentorship, summer program access"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "faqs": [
+    {
+      "id": "faq-1",
+      "question": "Do I need prior startup or business experience?",
+      "answer": "Not at all. Sprint is designed for complete beginners. We'll teach you everything you need to go from zero to pitch-ready in 48 hours."
+    },
+    {
+      "id": "faq-2",
+      "question": "Can I participate if I don't have a team yet?",
+      "answer": "Yes! You can participate solo or form teams of up to 4 people. We'll facilitate team formation during the opening session if you want to collaborate."
+    },
+    {
+      "id": "faq-3",
+      "question": "What should I bring to the event?",
+      "answer": "Bring your laptop, charger, notebook, and an open mind. We'll provide the structure, mentorship, and guidance—you bring the ambition."
+    },
+    {
+      "id": "faq-4",
+      "question": "Will food/meals be provided?",
+      "answer": "Specific meal arrangements vary by city. Details will be shared with registered participants closer to the event date."
+    },
+    {
+      "id": "faq-5",
+      "question": "What happens after Sprint ends? Can I continue working on my idea?",
+      "answer": "Absolutely. All participants gain access to the MLV community for continued mentorship, resources, and networking. Top teams may also receive discounts to our summer programs."
+    },
+    {
+      "id": "faq-6",
+      "question": "Is this online or in-person?",
+      "answer": "Hybrid. Speaker sessions and workshops are virtual (shared across all three cities), while Friday kickoff and Sunday Demo Day are in-person at your local venue."
+    },
+    {
+      "id": "faq-7",
+      "question": "What are the prizes?",
+      "answer": "We're finalizing our prize pool now, but all participants will receive certificates, and top teams will win exclusive merchandise and discounts to MLV's product ecosystem. Details coming soon."
+    },
+    {
+      "id": "faq-8",
+      "question": "Can parents attend or observe?",
+      "answer": "Parents are welcome to attend the closing ceremony and Demo Day on Sunday to watch pitches and celebrate their students' achievements."
+    }
+  ]
+}
