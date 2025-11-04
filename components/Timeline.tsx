@@ -85,7 +85,7 @@ export default function Timeline() {
           </div>
 
           {/* Timeline Items */}
-          <div className="space-y-20 md:space-y-24">
+          <div className="space-y-10 md:space-y-15">
             {timelineData.timeline.map((item, index) => (
               <div
                 key={item.id}

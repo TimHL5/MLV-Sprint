@@ -43,7 +43,7 @@ export default function Navigation() {
       <div className="max-w-[1400px] mx-auto flex justify-between items-center">
         <a href="/" className="flex items-center">
           <Image
-            src="/images/logos/mlv-sprint-white.svg"
+            src="/images/logos/Logo Type 2 (White).png"
             alt="MLV Sprint"
             width={160}
             height={40}
