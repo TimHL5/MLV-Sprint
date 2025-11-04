@@ -85,7 +85,7 @@ export default function Footer() {
         {/* Copyright */}
         <div className="pt-8 border-t border-green-quantum/10 text-center">
           <p className="text-white-dim text-sm">
-            © 2025 MLV Ignite. All rights reserved.
+            © 2026 MLV Ignite. All rights reserved.
           </p>
         </div>
       </div>

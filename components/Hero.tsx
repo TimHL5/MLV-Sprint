@@ -74,7 +74,7 @@ export default function Hero() {
         >
           <div className="w-1.5 h-1.5 bg-green-quantum rounded-full animate-pulse-slow" />
           <span className="text-green-quantum font-semibold text-sm uppercase tracking-wider">
-            JAN 9-11, 2025
+            JAN 9-11, 2026
           </span>
         </div>
 
@@ -140,15 +140,11 @@ export default function Hero() {
         >
           <div className="flex items-center gap-2">
             <span className="text-green-quantum">→</span>
-            <span>Ho Chi Minh City</span>
-          </div>
-          <div className="flex items-center gap-2">
-            <span className="text-green-quantum">→</span>
             <span>Hong Kong</span>
           </div>
           <div className="flex items-center gap-2">
             <span className="text-green-quantum">→</span>
-            <span>Singapore</span>
+            <span>Ho Chi Minh City</span>
           </div>
         </div>
       </div>

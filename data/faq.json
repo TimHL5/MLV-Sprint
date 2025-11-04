@@ -28,7 +28,12 @@
     {
       "id": "faq-6",
       "question": "Is this online or in-person?",
-      "answer": "Hybrid. Speaker sessions and workshops are virtual (shared across all three cities), while Friday kickoff and Sunday Demo Day are in-person at your local venue."
+      "answer": "Hybrid. Speaker sessions and workshops are virtual (shared across both cities), while Friday kickoff and Sunday Demo Day are in-person at your local venue."
+    },
+    {
+      "id": "faq-6a",
+      "question": "What if I'm not in Hong Kong or Ho Chi Minh City?",
+      "answer": "Students from anywhere in Asia are welcome to join! While in-person Demo Day is only available in Hong Kong and Ho Chi Minh City, all students across Asia can participate in the program and access guest speaker sessions, mentorship, and build their projects alongside the cohort."
     },
     {
       "id": "faq-7",

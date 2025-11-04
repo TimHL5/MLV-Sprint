@@ -45,9 +45,9 @@ export default function Navigation() {
           <Image
             src="/images/logos/mlv-sprint-white.svg"
             alt="MLV Sprint"
-            width={140}
-            height={32}
-            className="h-8 w-auto"
+            width={160}
+            height={40}
+            className="h-10 w-auto"
             priority
           />
         </a>

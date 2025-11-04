@@ -46,7 +46,7 @@ export default function FinalCTA() {
             Your startup journey starts here
           </h2>
           <p className="text-xl md:text-2xl text-white-dim mb-10 leading-relaxed">
-            48 hours. Three cities. One weekend that could change everything.
+            48 hours. Two cities. One weekend that could change everything.
           </p>
 
           <a
@@ -60,7 +60,7 @@ export default function FinalCTA() {
           </a>
 
           <p className="text-white-dim text-sm">
-            January 9-11, 2025 • Limited spots available
+            January 9-11, 2026 • Limited spots available
           </p>
         </div>
       </div>

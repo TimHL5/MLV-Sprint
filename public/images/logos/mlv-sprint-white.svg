@@ -1,0 +1,14 @@
+<svg width="160" height="40" viewBox="0 0 160 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- MLV Text -->
+  <text x="8" y="28" font-family="system-ui, -apple-system, sans-serif" font-size="24" font-weight="800" fill="#ffffff" letter-spacing="0.5">
+    MLV
+  </text>
+
+  <!-- Sprint Text -->
+  <text x="65" y="28" font-family="system-ui, -apple-system, sans-serif" font-size="24" font-weight="600" fill="#ffffff" letter-spacing="0.5">
+    SPRINT
+  </text>
+
+  <!-- Green accent circle (MLV brand green) -->
+  <circle cx="4" cy="10" r="3.5" fill="#6AC670"/>
+</svg>

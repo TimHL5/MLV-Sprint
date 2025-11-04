@@ -86,7 +86,7 @@ export default function Pricing() {
 
             {/* Title */}
             <h3 className="text-3xl md:text-4xl font-bold text-white-pure mb-2">
-              MLV Sprint 2025
+              MLV Sprint 2026
             </h3>
             <p className="text-lg text-white-dim mb-10">
               One ticket. Three pricing tiers based on when you register.
