@@ -47,13 +47,23 @@ const speakers: Speaker[] = [
     photo: "/images/Jackee Wong.png",
     bio: "Jackee Wong was Global Marketing Director at RedotPay (unicorn 2025) and previously built the growth department at ExpressVPN that helped turn it into a unicorn in 2021. With marketing experience since 2009 and leadership roles since 2015, Jackee has an impressive track record: he was made team lead of a game studio after less than 2 years of full-time experience and has since built growth departments for two tech startups that became unicorns—proving that understanding growth marketing can literally create billion-dollar companies."
   },
+  {
+    name: "Yongwon Cho",
+    title: "Co-Founder, Waddle (Backed by OpenAI)",
+    linkedin: "https://www.linkedin.com/in/yongwon/",
+    photo: "/images/Yongwon Cho.png",
+    bio: "Yongwon Cho is the Co-founder and Chief Operating Officer of Waddle, where he leads operations and growth strategy for one of Asia's fastest-emerging tech ventures. Recognized as a Forbes Asia 30 Under 30 (2025) honoree and a Global Shaper at the World Economic Forum, Yongwon exemplifies the next generation of innovators driving meaningful global impact. He has been awarded the Most AGI Potential Award by OpenAI and earned 1st Place in the OpenAI GPT-5 Hackathon, highlighting his forward-thinking approach to artificial intelligence and operational excellence."
+  },
+  {
+    name: "Huy Nguyen",
+    title: "Founder, MONOLOG",
+    linkedin: "https://www.linkedin.com/in/byhuy/",
+    photo: "/images/Huy Nguyen.png",
+    bio: "Huy dropped out of university at 20 after 1 year of balancing coursework with building his business, trapped between self-doubt and the fear of judgment. Now he runs MONOLOG, a design studio creating brand and web experiences for mission-driven companies. Through his personal brand on YouTube and LinkedIn, he helps solopreneurs build sustainable businesses and challenges students to define their ideal life on their own terms, not society's, not their parents', but theirs."
+  },
 ];
 
 const additionalSpeakers = [
-  {
-    name: "Huy Nguyen",
-    linkedin: "https://www.linkedin.com/in/byhuy/"
-  },
   {
     name: "Evelyn Nguyen - Goldman TMT",
     linkedin: "https://www.linkedin.com/in/evelynng912/"
