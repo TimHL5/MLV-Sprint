@@ -21,7 +21,7 @@ const values = [
   {
     number: '04',
     title: 'Unmatched value',
-    description: 'Full weekend experience for $29-49. Other programs charge $200+ for less.',
+    description: 'Full weekend experience for $49-99. Other programs charge $200+ for less.',
   },
 ];
 

@@ -7,13 +7,13 @@ const tiers = [
     name: 'Early Bird',
     price: '$29',
     timing: 'Now - Dec 15',
-    active: true,
+    active: false,
   },
   {
     name: 'Regular',
     price: '$49',
     timing: 'Dec 16 - Jan 5',
-    active: false,
+    active: true,
   },
   {
     name: 'At Door',
@@ -142,7 +142,7 @@ export default function Pricing() {
               rel="noopener noreferrer"
               className="block w-full bg-green-quantum text-black-deep px-8 py-5 rounded-lg font-bold text-lg text-center tracking-tight transition-all duration-300 hover:shadow-glow-md hover:-translate-y-1 active:-translate-y-0 relative overflow-hidden group"
             >
-              <span className="relative z-10">Register Now — $29</span>
+              <span className="relative z-10">Register Now — $49</span>
               <div className="absolute inset-0 -left-full w-full h-full bg-gradient-to-r from-transparent via-white/30 to-transparent transition-all duration-500 group-hover:left-full" />
             </a>
           </div>

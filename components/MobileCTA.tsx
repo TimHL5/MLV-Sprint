@@ -31,7 +31,7 @@ export default function MobileCTA() {
           rel="noopener noreferrer"
           className="block w-full bg-green-quantum text-black-deep px-6 py-4 rounded-lg font-bold text-center tracking-tight transition-all duration-300 hover:shadow-glow-md active:scale-95 relative overflow-hidden group"
         >
-          <span className="relative z-10">Register — $29</span>
+          <span className="relative z-10">Register — $49</span>
           <div className="absolute inset-0 -left-full w-full h-full bg-gradient-to-r from-transparent via-white/30 to-transparent transition-all duration-500 group-hover:left-full" />
         </a>
       </div>

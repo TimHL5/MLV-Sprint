@@ -55,7 +55,7 @@ export default function FinalCTA() {
             rel="noopener noreferrer"
             className="inline-block bg-green-quantum text-black-deep px-10 py-5 rounded-lg font-bold text-lg tracking-tight transition-all duration-300 hover:shadow-glow-lg hover:-translate-y-2 active:-translate-y-0 relative overflow-hidden group mb-6"
           >
-            <span className="relative z-10">Register for Sprint — $29</span>
+            <span className="relative z-10">Register for Sprint — $49</span>
             <div className="absolute inset-0 -left-full w-full h-full bg-gradient-to-r from-transparent via-white/30 to-transparent transition-all duration-500 group-hover:left-full" />
           </a>
 

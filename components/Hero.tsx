@@ -119,7 +119,7 @@ export default function Hero() {
             href="#register"
             className="bg-green-quantum text-black-deep px-8 py-4 rounded-md font-bold text-base tracking-tight transition-all duration-300 hover:shadow-glow-md hover:-translate-y-1 active:-translate-y-0 relative overflow-hidden group"
           >
-            <span className="relative z-10">Register Now — $29</span>
+            <span className="relative z-10">Register Now — $49</span>
             <div className="absolute inset-0 -left-full w-full h-full bg-gradient-to-r from-transparent via-white/30 to-transparent transition-all duration-500 group-hover:left-full" />
           </a>
 
